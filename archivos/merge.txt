@@ -1,2 +1,3 @@
 escriba su nombre, edad y aspiraciones con la materia?
 andres yair carvajal bolivar, 21, espero poder aprender muchas tecnicas de codigo, y con la ayuda de ustedes ir mejorando mi conocimiento en programacion, tales como mis habilidades, espero dar lo mejor de mi en esta materia
+ahora si podemos visualizar la carpeta archivos ya que pudimos subir un archivo dentro de ella, en este caso un txt
