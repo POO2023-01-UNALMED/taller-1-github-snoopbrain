@@ -1,0 +1,1 @@
+ahora si podemos visualizar la carpeta archivos ya que pudimos subir un archivo dentro de ella, en este caso un txt
