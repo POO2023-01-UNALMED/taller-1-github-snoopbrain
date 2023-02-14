@@ -1,1 +1,3 @@
-ocurrió algún problema con el punto anterior
+ocurrió algún problema con el punto anterior?
+si, efectivamente no se pueden hacer push o subir carpetas sin contenido adentro de el, ya que 
+si no se cumple no apareceran en el git hub
